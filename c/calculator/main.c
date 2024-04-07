@@ -26,6 +26,9 @@ void menu() {
         if (operation_result != 1) {
             break;
         }
+        if (!operation) {
+            break;
+        }
         else {
             printf("Enter num1: ");
             int num1_result = scanf("%lf", &num1);
