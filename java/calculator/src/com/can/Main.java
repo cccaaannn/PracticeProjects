@@ -39,7 +39,7 @@ public class Main {
                         System.out.print("Enter num1: ");
                         num1 = scanner.nextDouble();
 
-                        System.out.print("Enter num1: ");
+                        System.out.print("Enter num2: ");
                         num2 = scanner.nextDouble();
                     }
                     catch (Exception e) {
