@@ -1,4 +1,4 @@
-## Performance test
+## JNI Calculator
 
 ### Run
 #### Compile with `-h` to create c++ header file
